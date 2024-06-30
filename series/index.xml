@@ -6,6 +6,7 @@
     <description>Recent content in Series on SciEO</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>© SciEO</copyright>
     <atom:link href="https://scieo.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -7,7 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© SciEO</copyright>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://scieo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://scieo.github.io/about/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://scieo.github.io/about/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
